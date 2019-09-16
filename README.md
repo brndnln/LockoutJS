@@ -32,7 +32,15 @@ If you need the legalcode version, [click here](https://gitlab.com/toystoryalien
 
 Installation
 ------
-
+1. Open the developer tools (Windows/Linux/ChromeOS: Ctrl + Shift + I or Mac: Cmd + Shift + I) and go to the Console tab.
+2. Copy the code below into the console (**Tip:** You have to use Ctrl + V or Cmd + V)
+```javascript
+var code=0;var mkey="UcdDjbxUtgVk9mduLqVVAeXX4JLWVf";var isLocked=0;function lock(key){code=key;if(code==null){console.log("[Lockout] This key is invalid. You may not have null as your key as it would not allow anyone to unlock it.")}else{console.log("[Lockout] This browser is now locked.");isLocked=1;var p2=prompt("This browser is now locked.\nTo unlock your browser, please type the correct key below.\n\nhttp://lockoutjs.glitch.me/");if(p2==key){console.log("[Lockout] This browser is now unlocked.");isLocked=0;return true}else if(p2==mkey){console.log("[Lockout] This browser is now unlocked.");isLocked=0;return true}else{console.log("[Lockout] Someone attempted to unlock this browser.");fLock(code)}}}function fLock(key){code=key;if(code==null){console.log("[Lockout] This key is invalid. You may not have null as your key as it would not allow anyone to unlock it.")}else{var p3=prompt("Incorrect Key!\nTo unlock your browser, please type the correct key below.\n\nhttp://lockoutjs.glitch.me/");isLocked=1;if(p3==key){console.log("[Lockout] This browser is now unlocked.");isLocked=0;return true}else if(p3==mkey){console.log("[Lockout] This browser is now unlocked.");isLocked=0;return true}else{console.log("[Lockout] Someone attempted to unlock this browser.");fLock(code)}}}
+```
+3. Hit enter, then right click and click 'Clear Console'.
+4. Type `lock("<put key here>");`. Remember: You have to replace '<lock key here>' with the key you want to use.
+###### You are now done.
+To unlock, just type the key you put in.
 
 FAQ
 ------
