@@ -1,3 +1,31 @@
-# LockoutJS
+LockoutJS
+======
+##### A tool to "lock out" a webpage.
 
-Some JS code I wrote to make it so they cant use the open browser window.
+Introduction
+------
+
+
+Table of Contents
+------
+
+
+Terms And Conditions
+------
+
+
+License
+------
+
+
+Installation
+------
+
+
+FAQ
+------
+
+
+Contributors
+------
+
