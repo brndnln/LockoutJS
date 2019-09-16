@@ -25,6 +25,7 @@ To view the terms and conditions, please [click here]().
 License
 ------
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)]() [![forthebadge](https://forthebadge.com/images/badges/cc-nc.svg)]()
+
 We use a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 If you need the human-readable version, [click here](https://creativecommons.org/licenses/by-nc/4.0/).
 If you need the legalcode version, [click here](https://gitlab.com/toystoryalien-vault/lockoutjs/blob/master/LICENSE).
@@ -44,6 +45,7 @@ FAQ
 Contributors
 ------
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)]()
+
 + [Brendan Lane](http://gitlab.com/ToyStoryAlien) | Main Developer
 
 ***Other Credits:***
