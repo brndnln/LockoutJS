@@ -1,6 +1,6 @@
 IF YOU USE MY CODE IN ANY WAY, THEN YOU HAVE TO ACCEPT THESE TERMS.
 
-I (Brendan Lane) are not responsible for anything you do with my code.
+I (Brendan Lane) am not responsible for anything you do with my code.
 I wrote it so that other people can not mess with my web browser while I am away from it.
 If you (the person using this product) have got in trouble because you used my code, you have to take the blame for everything that you did.
 I cannot be associated with what you did with my code.
