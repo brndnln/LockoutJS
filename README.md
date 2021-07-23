@@ -1,11 +1,13 @@
 LockoutJS
 ======
+#### WARNING: THIS SOFTWARE CONTAINS MEMORY LEAKS AND I CAN'T BE DAMNED TO FIX IT
+
 ##### A tool to "lock out" a webpage.
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)]() [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
 
 Introduction
 ------
-Hello! My name is Brendan, and I created a piece of software that allows you to stop all actions on a website until you enter a key.
+Hello! My name is Sam, and I created a piece of software that allows you to stop all actions on a website until you enter a key.
 This was used by me a couple times during 7th grade (which is when I made it) to stop people from messing with my projects while I was in the restroom.
 
 Continue scrolling to learn more.
